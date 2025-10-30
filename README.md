@@ -26,8 +26,7 @@
 
 
 
-[linkedin]: www.linkedin.com/in/
-leonardo-saft-ostheimer-parreira-0298aa2b3
+[linkedin]: www.linkedin.com/in/leonardo-saft-ostheimer-parreira-0298aa2b3
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
